@@ -1,3 +1,16 @@
-theme: cursor basic
-title: homepage
-description: Homework
+Перелік основних команд якi потрібно записати: 
+git config --global user.name встановити ім"я
+git config --global user.email встановити пошту
+git init - створення пустого репозиторію 
+git status відображення локальних змін
+git add додати нові або змінені файли, щоб наступним кроком використати git commit
+git commit це знімок локальних змін 
+git log відображає історію комітів
+git checkout зміна гілки
+git branch відображення поточної гілки
+git push відправити зміни в репозиторій
+git pull отримання даних з віддаленого репозиторію 
+git merge об'єднання змін в одну гілку
+git clone клонування проекту в нову створену директорію
+
+.gitignore файл - Список файлів, які будуть ігноруватись git
